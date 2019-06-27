@@ -3,4 +3,4 @@ to understand how git
 and github work.
 
 That's it.
-And now it's being edited.
+And now it's being changed.
